@@ -41,7 +41,7 @@ This chapter moves on from hard part of creation to refining it. The chpater is 
     - Concise
 - Consumability
 
-Summary
+## Summary
 
 This chapter takes you from initial mode to next step of optimizing the draft.
 Here we change to a critic mode, to enhance the draft. Wearing a reader's hat helps to understand how the audience might react to it.
