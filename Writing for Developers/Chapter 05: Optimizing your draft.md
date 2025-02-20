@@ -1,4 +1,4 @@
-Chapter 05: Optimizing your draft
+# Chapter 05: Optimizing your draft
 
 This chapter moves on from hard part of creation to refining it. The chpater is very extensive and covers helpful tips on taking the initial draft to next level.
 
